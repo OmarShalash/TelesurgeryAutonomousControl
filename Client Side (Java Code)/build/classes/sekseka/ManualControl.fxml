@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="398.0" prefWidth="546.0" style="-fx-background-color: White;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sekseka.FXMLDocumentController">
+   <children>
+      <ImageView id="right" fitHeight="100.0" fitWidth="100.0" layoutX="200.0" layoutY="134.0" onMousePressed="#mousePressed" onMouseReleased="#mousePressed" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="right.png" />
+         </image>
+      </ImageView>
+      <ImageView id="up" fitHeight="100.0" fitWidth="100.0" layoutX="102.0" layoutY="34.0" onMousePressed="#mousePressed" onMouseReleased="#mousePressed" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="up.png" />
+         </image>
+      </ImageView>
+      <ImageView id="left" fitHeight="100.0" fitWidth="100.0" layoutY="134.0" onMousePressed="#mousePressed" onMouseReleased="#mousePressed" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="left.png" />
+         </image>
+      </ImageView>
+      <ImageView id="down" fitHeight="100.0" fitWidth="100.0" layoutX="102.0" layoutY="234.0" onMousePressed="#mousePressed" onMouseReleased="#mousePressed" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="down.png" />
+         </image>
+      </ImageView>
+      <ImageView id="out" fitHeight="100.0" fitWidth="100.0" layoutX="397.0" layoutY="234.0" onMousePressed="#mousePressed" onMouseReleased="#mousePressed" pickOnBounds="true" preserveRatio="true" rotate="-35.5">
+         <image>
+            <Image url="down.png" />
+         </image>
+      </ImageView>
+      <ImageView id="in" fitHeight="100.0" fitWidth="100.0" layoutX="397.0" layoutY="34.0" onMousePressed="#mousePressed" onMouseReleased="#mousePressed" pickOnBounds="true" preserveRatio="true" rotate="-35.5">
+         <image>
+            <Image url="up.png" />
+         </image>
+      </ImageView>
+   </children>
+   <effect>
+      <Glow />
+   </effect>
+</AnchorPane>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="71.0" prefWidth="317.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sekseka.FXMLDocumentController">
+   <children>
+      <Button layoutX="16.0" layoutY="23.0" mnemonicParsing="false" onAction="#handleButtonAction" prefHeight="25.0" prefWidth="139.0" text="Manual" />
+      <Button layoutX="163.0" layoutY="23.0" mnemonicParsing="false" onAction="#handleButtonAction" prefHeight="25.0" prefWidth="139.0" text="Automatic" />
+   </children>
+</AnchorPane>

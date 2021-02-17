@@ -1,0 +1,4 @@
+1-Make sure you include AccelStepper Library
+2-Set your Server IP Address
+3-Set your SSID and password
+4-Build and run your application
