@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CAREN3Layout version="3.18.0">
+  <Modules>
+    <module id="1" icon="MoCap" x="214" y="84" label="MoCap" title="MoCap"/>
+    <module id="19" icon="Script" x="214" y="564" label="Script" title="Clustering"/>
+    <module id="18" icon="Script" x="470" y="84" label="Script" title="Tibial"/>
+    <module id="11" icon="Script" x="470" y="180" label="Script" title="Femur"/>
+    <module id="15" icon="Script" x="470" y="276" label="Script" title="Endeffector"/>
+    <module id="17" icon="Script" x="470" y="372" label="Script" title="Base"/>
+    <module id="6" icon="Script" x="470" y="564" label="Script" title="Green Prob"/>
+    <module id="5" icon="Script" x="582" y="84" label="Script" title="Sounding"/>
+    <module id="2" icon="Parameter" x="214" y="308" label="Parameter" title="Parameter"/>
+    <module id="3" icon="Script" x="214" y="212" label="&#10;" title="Constants&#10;"/>
+    <module id="10" icon="Script" x="326" y="180" label="Script" title="Clustering Femur"/>
+    <module id="14" icon="Script" x="326" y="276" label="Script" title="Clustering"/>
+    <module id="16" icon="Script" x="326" y="372" label="Script" title="Clustering"/>
+    <module id="13" icon="Script" x="326" y="468" label="Script" title="Clustering"/>
+    <module id="12" icon="Script" x="326" y="84" label="Script" title="Clustering Tibial"/>
+    <module id="4" icon="Script" x="326" y="564" label="Script" title="Clustering Green Probe&#10;"/>
+    <module id="9" icon="Script" x="822" y="84" label="Script" title="DoCuttingFile"/>
+    <module id="7" icon="Phidgets" x="694" y="84" label="Phidgets" title="Phidgets"/>
+    <module id="8" icon="Script" x="822" y="196" label="Script" title="DoPins"/>
+  </Modules>
+  <Connectors>
+    <connector id="20">
+      <Boxes>
+        <box id="21" x="64" y="538"/>
+        <box id="22" x="-80" y="106"/>
+      </Boxes>
+      <Wires>
+        <wire id="23"/>
+        <wire id="24"/>
+        <wire id="25"/>
+        <wire id="26"/>
+        <wire id="27"/>
+        <wire id="28"/>
+        <wire id="29"/>
+        <wire id="30"/>
+        <wire id="31"/>
+        <wire id="32"/>
+        <wire id="33"/>
+        <wire id="34"/>
+      </Wires>
+    </connector>
+    <connector id="35">
+      <Boxes>
+        <box id="36" x="64" y="538"/>
+        <box id="37" x="-80" y="106"/>
+      </Boxes>
+      <Wires>
+        <wire id="38"/>
+        <wire id="39"/>
+        <wire id="40"/>
+        <wire id="41"/>
+        <wire id="42"/>
+        <wire id="43"/>
+        <wire id="44"/>
+        <wire id="45"/>
+        <wire id="46"/>
+        <wire id="47"/>
+        <wire id="48"/>
+        <wire id="49"/>
+      </Wires>
+    </connector>
+    <connector id="50">
+      <Boxes>
+        <box id="51" x="64" y="18"/>
+        <box id="52" x="-80" y="402"/>
+      </Boxes>
+      <Wires>
+        <wire id="53"/>
+      </Wires>
+    </connector>
+    <connector id="54">
+      <Boxes>
+        <box id="55" x="64" y="146"/>
+        <box id="56" x="-80" y="370"/>
+      </Boxes>
+      <Wires>
+        <wire id="57"/>
+        <wire id="58"/>
+        <wire id="59"/>
+        <wire id="60"/>
+        <wire id="61"/>
+        <wire id="62"/>
+        <wire id="63"/>
+        <wire id="64"/>
+      </Wires>
+    </connector>
+    <connector id="65">
+      <Boxes>
+        <box id="66" x="64" y="114"/>
+        <box id="67" x="-80" y="106"/>
+      </Boxes>
+      <Wires>
+        <wire id="68"/>
+        <wire id="69"/>
+        <wire id="70"/>
+        <wire id="71"/>
+        <wire id="72"/>
+        <wire id="73"/>
+        <wire id="74"/>
+        <wire id="75"/>
+        <wire id="76"/>
+        <wire id="77"/>
+        <wire id="78"/>
+        <wire id="79"/>
+      </Wires>
+    </connector>
+    <connector id="80">
+      <Boxes>
+        <box id="81" x="64" y="114"/>
+        <box id="82" x="-80" y="58"/>
+      </Boxes>
+      <Wires>
+        <wire id="83"/>
+      </Wires>
+    </connector>
+    <connector id="84">
+      <Boxes>
+        <box id="85" x="64" y="114"/>
+        <box id="86" x="-80" y="58"/>
+      </Boxes>
+      <Wires>
+        <wire id="87"/>
+      </Wires>
+    </connector>
+    <connector id="88">
+      <Boxes>
+        <box id="89" x="64" y="18"/>
+        <box id="90" x="-80" y="402"/>
+      </Boxes>
+      <Wires>
+        <wire id="91"/>
+      </Wires>
+    </connector>
+    <connector id="92">
+      <Boxes>
+        <box id="93" x="64" y="146"/>
+        <box id="94" x="-80" y="370"/>
+      </Boxes>
+      <Wires>
+        <wire id="95"/>
+        <wire id="96"/>
+        <wire id="97"/>
+        <wire id="98"/>
+        <wire id="99"/>
+        <wire id="100"/>
+        <wire id="101"/>
+        <wire id="102"/>
+      </Wires>
+    </connector>
+    <connector id="103">
+      <Boxes>
+        <box id="104" x="68" y="18"/>
+        <box id="105" x="788" y="378"/>
+      </Boxes>
+      <Wires>
+        <wire id="106"/>
+      </Wires>
+    </connector>
+    <connector id="107">
+      <Boxes>
+        <box id="108" x="64" y="146"/>
+        <box id="109" x="-80" y="346"/>
+      </Boxes>
+      <Wires>
+        <wire id="110"/>
+        <wire id="111"/>
+        <wire id="112"/>
+        <wire id="113"/>
+        <wire id="114"/>
+      </Wires>
+    </connector>
+    <connector id="115">
+      <Boxes>
+        <box id="116" x="64" y="90"/>
+        <box id="117" x="-80" y="58"/>
+      </Boxes>
+      <Wires>
+        <wire id="118"/>
+      </Wires>
+    </connector>
+    <connector id="119">
+      <Boxes>
+        <box id="120" x="64" y="90"/>
+        <box id="121" x="-80" y="82"/>
+      </Boxes>
+      <Wires>
+        <wire id="122"/>
+        <wire id="123"/>
+        <wire id="124"/>
+        <wire id="125"/>
+        <wire id="126"/>
+        <wire id="127"/>
+        <wire id="128"/>
+        <wire id="129"/>
+        <wire id="130"/>
+      </Wires>
+    </connector>
+    <connector id="131">
+      <Boxes>
+        <box id="132" x="64" y="298"/>
+        <box id="133" x="-80" y="370"/>
+      </Boxes>
+      <Wires>
+        <wire id="134"/>
+        <wire id="135"/>
+        <wire id="136"/>
+        <wire id="137"/>
+        <wire id="138"/>
+        <wire id="139"/>
+        <wire id="140"/>
+        <wire id="141"/>
+        <wire id="142"/>
+        <wire id="143"/>
+        <wire id="144"/>
+        <wire id="145"/>
+        <wire id="146"/>
+        <wire id="147"/>
+        <wire id="148"/>
+        <wire id="149"/>
+        <wire id="150"/>
+        <wire id="151"/>
+        <wire id="152"/>
+        <wire id="153"/>
+        <wire id="154"/>
+        <wire id="155"/>
+        <wire id="156"/>
+        <wire id="157"/>
+        <wire id="158"/>
+        <wire id="159"/>
+        <wire id="160"/>
+        <wire id="161"/>
+        <wire id="162"/>
+        <wire id="163"/>
+        <wire id="164"/>
+        <wire id="165"/>
+        <wire id="166"/>
+        <wire id="167"/>
+        <wire id="168"/>
+        <wire id="169"/>
+      </Wires>
+    </connector>
+    <connector id="170">
+      <Boxes>
+        <box id="171" x="64" y="298"/>
+        <box id="172" x="-80" y="370"/>
+      </Boxes>
+      <Wires>
+        <wire id="173"/>
+        <wire id="174"/>
+        <wire id="175"/>
+        <wire id="176"/>
+        <wire id="177"/>
+        <wire id="178"/>
+        <wire id="179"/>
+        <wire id="180"/>
+        <wire id="181"/>
+        <wire id="182"/>
+        <wire id="183"/>
+        <wire id="184"/>
+        <wire id="185"/>
+        <wire id="186"/>
+        <wire id="187"/>
+        <wire id="188"/>
+        <wire id="189"/>
+        <wire id="190"/>
+        <wire id="191"/>
+        <wire id="192"/>
+        <wire id="193"/>
+        <wire id="194"/>
+        <wire id="195"/>
+        <wire id="196"/>
+        <wire id="197"/>
+        <wire id="198"/>
+        <wire id="199"/>
+        <wire id="200"/>
+        <wire id="201"/>
+        <wire id="202"/>
+        <wire id="203"/>
+        <wire id="204"/>
+        <wire id="205"/>
+        <wire id="206"/>
+        <wire id="207"/>
+        <wire id="208"/>
+      </Wires>
+    </connector>
+    <connector id="209">
+      <Boxes>
+        <box id="210" x="64" y="298"/>
+        <box id="211" x="-80" y="346"/>
+      </Boxes>
+      <Wires>
+        <wire id="212"/>
+        <wire id="213"/>
+        <wire id="214"/>
+        <wire id="215"/>
+        <wire id="216"/>
+        <wire id="217"/>
+        <wire id="218"/>
+        <wire id="219"/>
+        <wire id="220"/>
+        <wire id="221"/>
+        <wire id="222"/>
+        <wire id="223"/>
+        <wire id="224"/>
+        <wire id="225"/>
+        <wire id="226"/>
+        <wire id="227"/>
+        <wire id="228"/>
+        <wire id="229"/>
+        <wire id="230"/>
+        <wire id="231"/>
+        <wire id="232"/>
+        <wire id="233"/>
+        <wire id="234"/>
+        <wire id="235"/>
+        <wire id="236"/>
+        <wire id="237"/>
+        <wire id="238"/>
+        <wire id="239"/>
+        <wire id="240"/>
+        <wire id="241"/>
+        <wire id="242"/>
+        <wire id="243"/>
+        <wire id="244"/>
+        <wire id="245"/>
+        <wire id="246"/>
+        <wire id="247"/>
+      </Wires>
+    </connector>
+    <connector id="248">
+      <Boxes>
+        <box id="249" x="64" y="18"/>
+        <box id="250" x="-80" y="106"/>
+      </Boxes>
+      <Wires>
+        <wire id="251"/>
+      </Wires>
+    </connector>
+    <connector id="252">
+      <Boxes>
+        <box id="253" x="64" y="146"/>
+        <box id="254" x="-80" y="74"/>
+      </Boxes>
+      <Wires>
+        <wire id="255"/>
+        <wire id="256"/>
+      </Wires>
+    </connector>
+    <connector id="257">
+      <Boxes>
+        <box id="258" x="64" y="42"/>
+        <box id="259" x="-80" y="74"/>
+      </Boxes>
+      <Wires>
+        <wire id="260"/>
+        <wire id="261"/>
+        <wire id="262"/>
+        <wire id="263"/>
+      </Wires>
+    </connector>
+    <connector id="264">
+      <Boxes>
+        <box id="265" x="64" y="202"/>
+        <box id="266" x="-80" y="74"/>
+      </Boxes>
+      <Wires>
+        <wire id="267"/>
+      </Wires>
+    </connector>
+    <connector id="268">
+      <Boxes>
+        <box id="269" x="64" y="18"/>
+        <box id="270" x="-80" y="106"/>
+      </Boxes>
+      <Wires>
+        <wire id="271"/>
+      </Wires>
+    </connector>
+    <connector id="272">
+      <Boxes>
+        <box id="273" x="64" y="146"/>
+        <box id="274" x="-80" y="74"/>
+      </Boxes>
+      <Wires>
+        <wire id="275"/>
+        <wire id="276"/>
+      </Wires>
+    </connector>
+    <connector id="277">
+      <Boxes>
+        <box id="278" x="64" y="42"/>
+        <box id="279" x="-80" y="74"/>
+      </Boxes>
+      <Wires>
+        <wire id="280"/>
+        <wire id="281"/>
+        <wire id="282"/>
+        <wire id="283"/>
+      </Wires>
+    </connector>
+    <connector id="284">
+      <Boxes>
+        <box id="285" x="64" y="202"/>
+        <box id="286" x="-80" y="74"/>
+      </Boxes>
+      <Wires>
+        <wire id="287"/>
+      </Wires>
+    </connector>
+  </Connectors>
+  <Groups>
+    <group title="Markers" description="" color="136" x="206" y="60" w="192" h="576">
+      <modules>
+        <UnsignedIntArray>
+          <UnsignedInt value="19"/>
+          <UnsignedInt value="1"/>
+          <UnsignedInt value="2"/>
+          <UnsignedInt value="3"/>
+          <UnsignedInt value="10"/>
+          <UnsignedInt value="14"/>
+          <UnsignedInt value="16"/>
+          <UnsignedInt value="13"/>
+        </UnsignedIntArray>
+      </modules>
+    </group>
+    <group title="Segments" description="" color="60" x="462" y="60" w="192" h="576">
+      <modules>
+        <UnsignedIntArray>
+          <UnsignedInt value="18"/>
+          <UnsignedInt value="11"/>
+          <UnsignedInt value="15"/>
+          <UnsignedInt value="17"/>
+          <UnsignedInt value="6"/>
+          <UnsignedInt value="5"/>
+        </UnsignedIntArray>
+      </modules>
+    </group>
+    <group title="Shaping Implant" description="" color="72" x="686" y="60" w="208" h="96">
+      <modules>
+        <UnsignedIntArray>
+          <UnsignedInt value="9"/>
+          <UnsignedInt value="7"/>
+        </UnsignedIntArray>
+      </modules>
+    </group>
+  </Groups>
+  <Editor x="206" y="894"/>
+</CAREN3Layout>
